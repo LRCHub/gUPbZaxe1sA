@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "もう少しだけ",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-05T13:41:33.298089Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もう少しだけ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_もう少しだけ_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もう少しだけ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_もう少しだけ_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "もう少しだけ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/03_もう少しだけ_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "もう少しだけ (只要多一点)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/04_もう少しだけ_(只要多一点)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "もう少しだけ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/05_もう少しだけ_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "もう少しだけ",
+      "artist": "Ayase / YOASOBI",
+      "has_synced": true,
+      "path": "select/06_もう少しだけ_Ayase___YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "YOASOBI「もう少しだけ」Official Music Video",
+      "artist": "Ayase / YOASOBI",
+      "has_synced": true,
+      "path": "select/07_YOASOBI「もう少しだけ」Official_Music_Video_Ayase___YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "もう少しだけ (360 Reality Audio)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/08_もう少しだけ_(360_Reality_Audio)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "もう少しだけ (只要多一点)",
+      "artist": "YOASOBI (ヨアソビ)",
+      "has_synced": true,
+      "path": "select/09_もう少しだけ_(只要多一点)_YOASOBI_(ヨアソビ).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "もう少しだけ",
+      "artist": "YOASOBI, Ayase",
+      "has_synced": true,
+      "path": "select/10_もう少しだけ_YOASOBI,_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "もう少しだけ (Instrumental)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/11_もう少しだけ_(Instrumental)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "もう少しだけ (Just a Little Step)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/12_もう少しだけ_(Just_a_Little_Step)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "もう少しだけ (Paused)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/13_もう少しだけ_(Paused)_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もう少しだけ",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_もう少しだけ_YOASOBI.txt"
+    }
+  ]
+}
